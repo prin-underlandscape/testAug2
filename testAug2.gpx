@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1" creator="PyGPX">
+  <wpt lat="44.037658" lon="10.672531">
+    <ele>500</ele>
+    <name>Casoli accesso percorso</name>
+    <desc>Centro per attività culturali</desc>
+  </wpt>
+  <wpt lat="44.038059" lon="10.671866">
+    <ele>500</ele>
+    <name>Casoli parcheggio</name>
+    <desc>Un QRcode</desc>
+  </wpt>
+  <wpt lat="44.02112" lon="10.701585">
+    <ele>500</ele>
+    <name>Deviazione percorso di costa</name>
+    <desc>Un POI di prova</desc>
+  </wpt>
+  <wpt lat="44.02007" lon="10.70504">
+    <ele>500</ele>
+    <name>Deviazione Penna di Lucchio</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>Itinerario per Buca La Piella</name>
+    <desc>Breve percorso che porta alla cavità chiamata Buca La Piella. Nel primo tratto si percorre il sentiero CAI 386, per poi lasciarlo una volta arrivati al torrente. Proseguire lungo il letto del Rio di Castello fino a una deviazione che sale sul versante destro fino a giungere all'ingresso della grotta.</desc>
+    <trkseg>
+      <trkpt lat="44.041642027231084" lon="10.682943370186207">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.041258" lon="10.683075">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.040964" lon="10.683081">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.040655" lon="10.683139">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.040393" lon="10.683337">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.04025" lon="10.683363">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.038422" lon="10.683555">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.038151" lon="10.683619">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.038095" lon="10.683657">
+        <ele>357.5</ele>
+      </trkpt>
+      <trkpt lat="44.038031" lon="10.683709">
+        <ele>355.75</ele>
+      </trkpt>
+      <trkpt lat="44.037989" lon="10.683726">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.037913" lon="10.683737">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.037826" lon="10.683759">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.037755" lon="10.683762">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.037662" lon="10.683775">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.037556" lon="10.683796">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.037471" lon="10.683796">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.0374" lon="10.683773">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.037243" lon="10.683761">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.037146" lon="10.683762">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.036978" lon="10.6838">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.036853" lon="10.683832">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.03674" lon="10.68384">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.036621" lon="10.683825">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.036476" lon="10.683841">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.036413" lon="10.683863">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.036296" lon="10.683957">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.036135" lon="10.684091">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.035987" lon="10.684193">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.035856" lon="10.684248">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.035769" lon="10.684243">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.035714" lon="10.684215">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.035608" lon="10.684185">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.035519" lon="10.684183">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.035454" lon="10.684143">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.035452" lon="10.684096">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.035483" lon="10.684061">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.035585" lon="10.684029">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.035717" lon="10.684009">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.035885" lon="10.684008">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.03602" lon="10.683973">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.036142" lon="10.683907">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.036299" lon="10.683803">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.036393" lon="10.683732">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.036495" lon="10.683598">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="44.03659" lon="10.6835">
+        <ele>0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Buca La Piella</name>
+    <desc>Sopralluogo per individuare Buca La Piella e l'Antro dell'Ugola, posizionando i QRcode lungo il percorso. Nella prima parte si segue il sentiero CAI 386 per poi continuare lungo il letto del Rio di Castello</desc>
+    <trkseg>
+      <trkpt lat="[10.682954, 44.04162, 410.78665946237743, 1682841696]" lon="[10.682954, 44.04162, 410.78665946237743, 1682841687]">
+        <ele>[10.682954, 44.04162, 410.78665946237743, 1682841697]</ele>
+      </trkpt>
+      <trkpt lat="[10.683139, 44.03888, 437.0892172874883, 1682854265]" lon="[10.683127, 44.038924, 436.22471182700247, 1682854261]">
+        <ele>[10.683022, 44.03875, 420.2926839822903, 1682854283]</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
