@@ -24,7 +24,7 @@ Un POI di prova
 
 **Un POI di prova**
 ## Risorsa: Deviazione Penna di Lucchio
-Descrizione di {feature['properties']['Titolo']} ({ulsp_type) mancante
+Descrizione di Deviazione Penna di Lucchio (Risorsa) mancante
 *Nessuna immagine* 
 
 ****
