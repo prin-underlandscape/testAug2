@@ -1,4 +1,4 @@
-# testAug2 ([mappa](https://umap.openstreetmap.fr/it/map/itn000_1050205))
+# testAug2 ([mappa](https://umap.openstreetmap.fr/it/map/mappa-senza-nome_1097572))
 Bagni di Lucca Heritage itinerary 
 
 Questo dataset fa parte dei risultati del progetto [PRIN Underlandscape](https://sites.google.com/view/prin-underlandscape/)
